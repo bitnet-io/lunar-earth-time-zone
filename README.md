@@ -9,7 +9,13 @@ every 14 days on earth is one day passing on the moon
 
 it's not feasible to make a time zone for the moon
 
-it's more feasible that every 14 days on a regular calendar should indicate a day on the moon Jan 14 is day 1 on the moon
+it's more feasible that every 14 days on a regular calendar should indicate a day on the moon
+
+Jan 14 is lunar New years day
+
+on earth New Year's Day is January 1st 
+
+Jan 14 is day 1 on the moon
 
 Jan 28th is the second day on the moon 
 
