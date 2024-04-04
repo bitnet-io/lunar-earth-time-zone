@@ -18,3 +18,6 @@ should be part of the official calendar that we use
 the date on earth should correlate with the day on the moon 
 
 https://www.bbc.com/news/science-environment-68722032
+
+
+![s1](https://github.com/bitnet-io/lunar-earth-time-zone/blob/main/Screenshot_20240403-234817.png)
